@@ -46,13 +46,13 @@
 ## Bytom Documents and Resources
 
 - Technical White Papers
-    - [English](/en-US/blob/master/Bytom-Technical-White-Paper-EN.pdf)
-    - [Chinese](/zh-CN/blob/master/Bytom-Technical-White-Paper-ZH.pdf)
+    - [English](/en-US/Bytom-Technical-White-Paper-EN.pdf)
+    - [Chinese](/zh-CN/Bytom-Technical-White-Paper-ZH.pdf)
 - Bystack White Papers
-    - [English](/en-US/blob/master/Bystack-White-Paper-EN.pdf)
-    - [Chinese](/zh-CN/blob/master/Bystack-White-Paper-ZH.pdf)
+    - [English](/en-US/Bystack-White-Paper-EN.pdf)
+    - [Chinese](/zh-CN/Bystack-White-Paper-ZH.pdf)
 - [Tensority](/en-US/Tensority-v1.2.pdf)
-- [BBFT](/en-US/blob/master/BBFT.pdf)
+- [BBFT](/en-US/BBFT.pdf)
 - [Documentation](https://docs.bytom.io/en-us/docs/01_bytom.html)
 - [BMIPs](https://github.com/Bytom/bmips)
 
