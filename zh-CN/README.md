@@ -51,6 +51,9 @@
 - Bystack White Papers
     - [English](/en-US/Bystack-White-Paper-EN.pdf)
     - [Chinese](/zh-CN/Bystack-White-Paper-ZH.pdf)
+- MOV White Papers
+    - [English](/en-US/MOV-White-Paper-EN.pdf)
+    - [Chinese](/zh-CN/MOV-White-Paper-ZH.pdf)
 - [Tensority](/en-US/Tensority-v1.2.pdf)
 - [BBFT](/en-US/BBFT.pdf)
 - [Documentation](https://docs.bytom.io/en-us/docs/01_bytom.html)
