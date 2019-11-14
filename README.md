@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://ae01.alicdn.com/kf/HTB1F_H5XGL7gK0jSZFB760ZZpXaf.png"
+    src="/zh-CN/Logo_Bytom_v2.1.png"
     width="260px"
   >
 </p>
