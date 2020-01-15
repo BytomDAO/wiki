@@ -54,6 +54,9 @@
 - MOV White Papers
     - [English](/en-US/MOV-White-Paper-EN.pdf)
     - [Chinese](/zh-CN/MOV-White-Paper-ZH.pdf)
+- MOV Stable Financial System
+    - [English](/en-US/MOV-Stable-EN.pdf)
+    - [Chinese](/zh-CN/MOV-Stable-ZH.pdf)
 - [Tensority](/en-US/Tensority-v1.2.pdf)
 - [BBFT](/en-US/BBFT.pdf)
 - [Documentation](https://docs.bytom.io/en-us/docs/01_bytom.html)
